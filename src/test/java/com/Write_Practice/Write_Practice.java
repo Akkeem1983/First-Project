@@ -38,8 +38,13 @@ public class Write_Practice {
 		FileOutputStream ak3 = new FileOutputStream(ak);
 		ak2.write(ak3);
 
+<<<<<<< HEAD
+		System.out.println("qa work");
+		System.out.println("Work done by QA");
+=======
 		System.out.println("Dev Branch");
 		System.out.println("Work done by DEV");
+>>>>>>> df8504c60ec3577de1c81496aa29cdea5810d37f
 	}
 
 }
