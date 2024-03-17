@@ -38,6 +38,8 @@ public class Write_Practice {
 		FileOutputStream ak3 = new FileOutputStream(ak);
 		ak2.write(ak3);
 
+		System.out.println("qa work");
+		System.out.println("Work done by QA");
 	}
 
 }
